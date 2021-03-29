@@ -1,0 +1,8 @@
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\Resources\StaticResources.baml
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\View\MetterChartView.baml
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\MainWindow.g.cs
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\View\MetterChartView.g.cs
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\View\MetterDetailView.g.cs
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\Tenaris.AutoAr.Sylvac.App.Metter_MarkupCompile.cache
+C:\Users\T11470\Documents\GH\Desarrollo\1.xx-sandbox\source\Tenaris.AutoAr.Sylvac.App.Metter\obj\x86\Release\Tenaris.AutoAr.Sylvac.App.Metter_MarkupCompile.lref

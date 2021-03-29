@@ -1,0 +1,12 @@
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Resources\StaticResources.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\View\ChartView.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\App.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\MainWindow.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\View\ChartView.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\App.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter_MarkupCompile.cache
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter_MarkupCompile.lref
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.exe
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.pdb
+C:\dev\Program Files (x86)\SylConnect\Tenaris.AutoAr.Sylvac.App.Metter.exe.config

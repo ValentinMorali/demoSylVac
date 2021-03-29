@@ -1,0 +1,60 @@
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.AutoAr.App.Metter.exe.config
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.AutoAr.App.Metter.exe
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.AutoAr.App.Metter.pdb
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.Prism.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\PostSharp.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\PostSharp.Laos.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\System.Windows.Interactivity.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\TeeChart.WPF.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.Library.Framework.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.Library.Log.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.Library.UI.Framework.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\WPFToolkit.Extended.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.Prism.xml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.Prism.Interactivity.pdb
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\System.Windows.Interactivity.xml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.Library.Framework.xml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Tenaris.Library.Log.xml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.csprojResolveAssemblyReference.cache
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Resources\StaticResources.baml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\View\ChartView.baml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\App.baml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\MainWindow.g.cs
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\View\ChartView.g.cs
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\App.g.cs
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter_MarkupCompile.cache
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter_MarkupCompile.lref
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\MainWindow.baml
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.g.resources
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.Properties.Resources.resources
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.csproj.GenerateResource.Cache
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.exe
+C:\dev\C#\Metter\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.pdb
+C:\Program Files (x86)\SylConnect\Tenaris.AutoAr.App.Metter.exe.config
+C:\Program Files (x86)\SylConnect\Tenaris.AutoAr.App.Metter.exe
+C:\Program Files (x86)\SylConnect\Tenaris.AutoAr.App.Metter.pdb
+C:\dev\Program Files (x86)\SylConnect\Tenaris.AutoAr.App.Metter.exe.config
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.exe
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.pdb
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.csprojResolveAssemblyReference.cache
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Resources\StaticResources.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\View\ChartView.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\App.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\MainWindow.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\View\ChartView.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\App.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter_MarkupCompile.cache
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter_MarkupCompile.lref
+C:\dev\Program Files (x86)\SylConnect\Tenaris.AutoAr.App.Metter.exe
+C:\dev\Program Files (x86)\SylConnect\Tenaris.AutoAr.App.Metter.pdb
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\MainWindow.baml
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.g.resources
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.Properties.Resources.resources
+C:\dev\C#\Metter\1.xx-Sandbox\source\Tenaris.AutoAr.App.Metter\obj\x86\Debug\Tenaris.AutoAr.App.Metter.csproj.GenerateResource.Cache
